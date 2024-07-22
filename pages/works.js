@@ -8,10 +8,10 @@ import { AnimatePresence } from 'framer-motion'
 import { Boilerplate, CondensedBoilerplate } from '../components/work-detail'
 import worksDetail from '../data/works-detail'
 
-import thumbQuizPractice from '../public/works/QuizPractice_thumbnail.webp'
-import thumbSCMS from '../public/works/SCMS_thumbnail.webp'
-import thumbVTVLivePhoto from '../public/works/VtvLivePhoto_thumbnail.webp'
-import thumbGame from '../public/works/GuardiansOfEldoria_thumbnail.webp'
+import thumbQuizPractice from '../public/works/quizpractice_thumbnail.webp'
+import thumbSCMS from '../public/works/scms_thumbnail.webp'
+import thumbVTVLivePhoto from '../public/works/vtvlivephoto_thumbnail.webp'
+import thumbGame from '../public/works/guardiansofeldoria_thumbnail.webp'
 import thumbElearning from '../public/works/e_learning_thumbnail.webp'
 
 
