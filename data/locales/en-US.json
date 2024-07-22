@@ -1,0 +1,103 @@
+{
+  "lang": "EN",
+  "Timeline.Now": "Now",
+  "Button.Return": "Return home",
+
+  "Navbar.Works": "Works",
+  "Navbar.Source": "Source",
+
+  "Sidebar.About": "About Me",
+  "Sidebar.Works": "My Works",
+  "Sidebar.Source": "View Source",
+
+  "ariaLabel.themeToggle": "Toggle theme",
+  "ariaLabel.Navigation": "Navigation",
+  "ariaLabel.timelineToggle": "Collapse/Expand timeline",
+  "ariaLabel.close": "Close",
+  "ariaLabel.explore": "Explore",
+
+  "Home.InteractHint": "Interactable",
+  "Home.Greeting": "Hello, welcome to my portfolio",
+  "Home.Hobby": "Programming Enthusiast",
+  "Home.Bio.Title": "Bio",
+  "Home.Bio.Content": "Everything from a maker to an electrician, a designer to a developer, I'm a jack of all trades but a master of none, oftentimes better than a master of one. Born and raised in the vibrant city of Hanoi, Vietnam, I have graduated FPT University. My passion for creating value drives me to continuously learn and make, and I take great satisfaction in bringing new and exciting ideas to life.",
+  "Home.Works.Button": "My Works",
+
+  "Home.Comfortable.Title": "Familiar with",
+  "Home.Comfortable.Content.FE": "Frontend",
+  "Home.Comfortable.Content.BE": "Backend",
+  "Home.Comfortable.Content.DB": "Database",
+  "Home.Comfortable.Content.Others": "Others technology",
+
+  "Home.Timeline.Title": "My Journey",
+  "Home.Timeline.Content.2002.1": "Born in Hanoi, Vietnam",
+  "Home.Timeline.Content.2002.1.Description": "Where all my hopes and dreams began :D",
+  "Home.Timeline.Content.2014.1": "Wrote my first line of code on my sister's computer",
+  "Home.Timeline.Content.2014.1.Description": "Starting with an interest in video game modding, I saw programming as the way to bring my most desirable visions into existence. Driven with enthusiasm, I decided to dedicate myself to learning the rudiments of Lua.",
+  "Home.Timeline.Content.2017.1": "Got my very first computer",
+  "Home.Timeline.Content.2017.1.Description": "Arguably, my best purchase. I still remember spending the whole night just waiting for Windows to install.",
+  "Home.Timeline.Content.2017.2": "Experimented with embedded systems and C/C++",
+  "Home.Timeline.Content.2017.2.Description": "Single-handedly, one of the most significant decisions of my career. Through countless short-circuit and fried MCUs, I've learned to appreciate the engineers behind every piece of electronics.",
+  "Home.Timeline.Content.2017.3": "Crossed the bridge into the Internet of Things (ESP32 and ESP8266)",
+  "Home.Timeline.Content.2017.3.Description": "With the basic understanding of C/C++ with Arduino, Espressif's IoT Development Framework (ESP-IDF) was my next leap forward.",
+  "Home.Timeline.Content.2020.1": "Enrolled in FPT University",
+  "Home.Timeline.Content.2020.1.Description": "To begin my dream of becoming a programmer, I enrolled in FPT University majoring in Software Engineering - SE",
+  "Home.Timeline.Content.2022.1": "Internship period",
+  "Home.Timeline.Content.2022.1.Description": "After completing 5 semesters at FPT University with a solid foundation in programming, I interned at Merkle, a part of Salesforce, for 7 months and learned a lot. Indeed, learning must go hand in hand with practice",
+  "Home.Timeline.Content.2024.1": "End of student life",
+  "Home.Timeline.Content.2024.1.Description": "After successfully completing my thesis, I graduated from FPT University",
+  "Home.Timeline.Content.2024.2": "Internship at VTVLive",
+  "Home.Timeline.Content.2024.2.Description": "After finishing university life, I immediately prepared to work, and the company I joined was VTVLive.",
+  "Home.Timeline.Content.2024.3": "3 months internship at VTVLive",
+  "Home.Timeline.Content.2024.3.Description": "I interned at VTVLive for 3 months. In the first month, I worked as a Frontend intern, where I self-studied and built many pages using technologies such as PHP, Vue, Nuxt3, and Next.js. In the second month, I was entrusted with the responsibility of creating an image search website using AWS S3 Rekognition. In the final month, I worked with Backend C# on AWS S3 Cloud",
+  
+
+  "Home.Social.Title": "Other platforms",
+
+  "Works.Badge.Demo": "Demo",
+  "Works.Badge.Platform": "Platform",
+  "Works.Badge.Stack": "Stack",
+  "Works.Badge.Backend": "Backend",
+  "Works.Badge.Source": "Source",
+
+  "Works.Management": "Management console",
+  "Works.Link": "Source Link",
+
+  
+
+  "Works.Web": "Web applications",
+  "Works.Web.Description": "Web application, cross-platform",
+
+  "Works.Web.QuizPractice.Lifespan": "Sep - Nov 2022",
+  "Works.Web.QuizPractice.Description": "A QuizPractice Web application inspired by Quizizz",
+  "Works.Web.SCMS.Lifespan": "Feb - May 2024",
+  "Works.Web.SCMS.Description": "My Group Project about Managing Student for FPT University",
+  "Works.Web.VtvLivePhoto.Lifespan": "June 2024",
+  "Works.Web.VtvLivePhoto.Description": "I made this website as a gift from our department to the company on the occasion of its 12th anniversary .",
+  "Works.Web.Cronus.Source": "Source code",
+  "Works.Web.VansPortfolio.Lifespan": "July 2024",
+  "Works.Web.VansPortfolio.Description": "My personal portfolio showcasing my work as a freelance web developer.",
+
+  "Works.Embedded": "Embedded systems",
+
+  "Works.Embedded.LoadBalancer.Lifespan": "Nov - Dec 2018",
+  "Works.Embedded.LoadBalancer.Description": "Balancing energy consumption and minimizing down-time during power outages.",
+  "Works.Embedded.LoadBalancer.Platform": "Schematic diagram",
+
+  "Works.Hobbies": "Hobbies",
+
+  "Works.Hobbies.GuardiansOfEldoria.Lifespan": "May - July 2023",
+  "Works.Hobbies.GuardiansOfEldoria.Description": "My Group Project Game about tower defense with Unity.",
+  "Works.Hobbies.E_LearningAppMobile.Lifespan": "May - July 2023",
+  "Works.Hobbies.E_LearningAppMobile.Description": "My Group Project Mobile App about E learning with Java Android Studio.",
+
+
+  "Works.Experimental": "Experimental",
+
+  "404.Title": "Not Found",
+  "404.Header": "Bummer!",
+  "404.Description": "The page you're looking for cannot be found.",
+  "404.Return": "Homepage",
+
+  "Footer": "Made with ❤️ by"
+}
