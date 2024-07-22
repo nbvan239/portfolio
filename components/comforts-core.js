@@ -1,30 +1,19 @@
-import { HStack, useColorModeValue, keyframes } from '@chakra-ui/react';
-import { BsFiletypeJava, BsLightningChargeFill } from 'react-icons/bs';
-import { GiCubes } from 'react-icons/gi';
+import { HStack, useColorModeValue } from '@chakra-ui/react';
+import { BsFiletypeJava } from 'react-icons/bs';
 import { RiReactjsLine } from 'react-icons/ri';
 import {
   SiNextdotjs,
-  SiBootstrap,
+
   SiMongodb,
-  SiDocker,
+
   SiArduino,
-  SiEspressif,
+
   SiC,
-  SiPopos,
-  SiNginx,
-  SiMariadb,
-  SiBlender,
-  SiAutodesk,
-  SiAdobephotoshop,
-  SiAdobeillustrator,
-  SiOpencv,
-  SiPython,
   SiNuxtdotjs,
   SiVuedotjs,
   SiCsharp,
   SiJavascript,
   SiNodedotjs,
-  SiSqlite,
   SiMysql,
   SiPhp,
   SiUnity,
@@ -35,39 +24,7 @@ import { useIntl } from 'react-intl';
 import { DiMsqlServer } from 'react-icons/di';
 import { FaAws } from 'react-icons/fa';
 
-const OpenCVColors = [
-  '#9ED110',
-  '#50B517',
-  '#179067',
-  '#476EAF',
-  '#9f49ac',
-  '#CC42A2',
-  '#FF3BA7',
-  '#FF5800',
-  '#FF8100',
-  '#FEAC00',
-  '#f5c400',
-  '#d8d103',
-  '#9ED110'
-];
 
-const animationKeyframes = keyframes`
-  0% { color: ${OpenCVColors[0]}}
-  8.3% { color: ${OpenCVColors[1]}}
-  16.6% { color: ${OpenCVColors[2]}}
-  25.0% { color: ${OpenCVColors[3]}}
-  33.4% { color: ${OpenCVColors[4]}}
-  41.8% { color: ${OpenCVColors[5]}}
-  50.2% { color: ${OpenCVColors[6]}}
-  58.5% { color: ${OpenCVColors[7]}}
-  66.8% { color: ${OpenCVColors[8]}}
-  75.1% { color: ${OpenCVColors[9]}}
-  83.4% { color: ${OpenCVColors[10]}}
-  91.7% { color: ${OpenCVColors[11]}}
-  100% { color: ${OpenCVColors[12]}}
-`;
-
-const animation = `${animationKeyframes} 20s ease-in-out infinite`;
 
 const Technologies = ({ children }) => (
   <HStack

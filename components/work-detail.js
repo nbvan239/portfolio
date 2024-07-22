@@ -20,7 +20,6 @@ import { useIntl } from 'react-intl'
 import { motion } from 'framer-motion'
 import { CustomBadge } from '../components/icon-badge'
 import { ExternalLinkIcon } from '@chakra-ui/icons'
-import { MdOpenInFull } from 'react-icons/md'
 import { BiServer } from 'react-icons/bi'
 import ImgsViewer from '@haz3l/react-images-viewer'
 
@@ -38,9 +37,6 @@ export const Boilerplate = ({ metadata, setOpen, details }) => {
   )
   const badgeColor = useColorModeValue('#e6ebf1', '#5e5e5e')
 
-  const openImageViewer = () => {
-    setIsViewerOpen(true)
-  }
 
   const closeImageViewer = () => {
     setIsViewerOpen(false)
@@ -196,27 +192,6 @@ export const Boilerplate = ({ metadata, setOpen, details }) => {
             p={{ base: '1em', sm: '1.3em', md: '1.5em' }}
             position="relative"
           >
-            <Button
-              p={2.5}
-              m="-3.3em 1em 0 0"
-              h="auto"
-              minW="auto"
-              top={0}
-              right={0}
-              position="absolute"
-              bg="#000000ba"
-              color="#ededee"
-              fontSize={14}
-              zIndex={1}
-              _active={{}}
-              _hover={{ bg: '#333333d9' }}
-              onClick={openImageViewer}
-              aria-label={t({
-                id: `ariaLabel.explore`,
-                defaultMessage: 'Undefined'
-              })}
-            >
-            </Button>
             <motion.div layoutId={`title-container-${metadata.id}`}>
               <Title
                 parent={t({

@@ -1,7 +1,6 @@
 import { Container, Heading, SimpleGrid, Divider } from '@chakra-ui/react'
 import Layout from '../components/layouts/article'
 import Section from '../components/section'
-import { HrefGridItem } from '../components/grid-item'
 import { useIntl } from 'react-intl'
 import { useState } from 'react'
 import lockScroll from 'react-lock-scroll'
@@ -22,7 +21,6 @@ import thumbElearning from '../public/works/e_learning_thumbnail.webp'
 
 import thumbKhanhsPortfolio from '../public/hero/placeholder.webp'
 import thumbLoadBalancer from '../public/works/loadbalancer_thumbnail.webp'
-import thumbElasticity from '../public/works/elasticity_thumbnail.webp'
 
 const Works = () => {
   const { formatMessage: t } = useIntl()
