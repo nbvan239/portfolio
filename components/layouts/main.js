@@ -42,7 +42,7 @@ const Main = ({ children, router, windowWidth }) => (
       <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#333333" />
       <meta name="msapplication-TileColor" content="#333333" />
       <meta name="theme-color" content="#333333" />
-      <meta property="og:url" content="https://portfolio.haz3l.dev/" />
+      <meta property="og:url" content="https://nbvan239-portfolio.vercel.app/" />
       <meta property="og:type" content="website" />
       <meta property="og:title" content="Văn's Portfolio" />
       <meta
@@ -51,11 +51,11 @@ const Main = ({ children, router, windowWidth }) => (
       />
       <meta
         property="og:image"
-        content="https://portfolio.haz3l.dev/hero/placeholder.png"
+        content="https://nbvan239-portfolio.vercel.app/hero/placeholder.png"
       />
       <meta name="twitter:card" content="summary_large_image" />
       <meta property="twitter:domain" content="portfolio.haz3l.dev" />
-      <meta property="twitter:url" content="https://portfolio.haz3l.dev/" />
+      <meta property="twitter:url" content="https://nbvan239-portfolio.vercel.app/" />
       <meta name="twitter:title" content="Văn's Portfolio" />
       <meta
         name="twitter:description"
@@ -63,7 +63,7 @@ const Main = ({ children, router, windowWidth }) => (
       />
       <meta
         name="twitter:image"
-        content="https://portfolio.haz3l.dev/hero/placeholder.png"
+        content="https://nbvan239-portfolio.vercel.app/hero/placeholder.png"
       />
     </Head>
 
